@@ -1,7 +1,7 @@
 {
-    "name": "giaydantuong/bang-gia-day-gian-tuong-gia-re-va-dep",
-    "description": "Giaydantuong Framework.",
-    "keywords": ["framework", "giaydantuong"],
+    "name": "speedtestfast/speed-test-net-fast-com",
+    "description": "Speedtest Framework.",
+    "keywords": ["framework", "speedtestfast"],
     "license": "MIT",
     "type": "project",
     "require": {
