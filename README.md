@@ -1,4 +1,11 @@
-# bang-gia-day-gian-tuong-gia-re-va-dep
-Code lựa chọn bảng giá dấy gián tường rẻ đẹp
+This application is a definite copy of https://speedtestfast.com & this may use our premium servers to check user line speed. you're adding this application as a gadget on your webpage. rather than causation your guests to different web sites for testing net speed you'll have this application on your website itself.
 
-Nhà đại gia mà cũng thích sử dụng giấy dán tường có lẽ vì sự tiện dụng và đây là bài viết tham khảo <a href="https://medium.com/@soi_nguyen_journalist/b%E1%BA%A3ng-gi%C3%A1-gi%E1%BA%A5y-d%C3%A1n-t%C6%B0%E1%BB%9Dng-%C4%91%E1%BA%B9p-gi%C3%A1-r%E1%BA%BB-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-l%E1%BB%B1a-ch%E1%BB%8Dn-v%C3%A0-ch%E1%BB%97-mua-838517c971f3">https://medium.com/@soi_nguyen_journalist/b%E1%BA%A3ng-gi%C3%A1-gi%E1%BA%A5y-d%C3%A1n-t%C6%B0%E1%BB%9Dng-%C4%91%E1%BA%B9p-gi%C3%A1-r%E1%BA%BB-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-l%E1%BB%B1a-ch%E1%BB%8Dn-v%C3%A0-ch%E1%BB%97-mua-838517c971f3</a>, vì dấy gián tường dễ dàng thay đổi kiểu cách, chứ không như sơn tường, mỗi lần muốn thay đổi màu sắc lại mất nhiều công đoạn để làm lại. Giấy dán tường nhiều ưu điểm hơn như hoa văn đẹp, mẫu tranh 3d, dễ dàng thay thế...
+This is AN Example for adding this gadget on a responsive webpage. size your browser window to examine however it works for various screen sizes. conjointly you would like to regulate the CSS values for an ideal work on your style.
+
+You will produce a replacement page for this application otherwise you can use it on existing page! application dimension is 755px and height is 490px. Paste our HTML code on your webpage!
+
+FREE Hosted speedtest application (Become a Speedtest Host)
+
+Same version of we have a tendency tob|the net} Speedtest tool we square measure victimisation to tests network speeds. it's a fast and simple tool for testing the speed from your server. It is used on connections up to 5Gbps. This speed testing application can use your server to check transfer and transfer speed. we tend to store every resuls to our info and an avid coverage system that shows you tests that are performed via your server. Signup here to look at results (Only for possibility #2). This Self-Hosted version is Free for private and business use. You become one in all our Speedtest Server.
+
+You will produce a replacement page for this application otherwise you can use it on existing page! application dimension is 755px and height is 490px. Paste our HTML code on your webpage!
